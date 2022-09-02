@@ -1,6 +1,6 @@
 ### Hi, I'm Michael 👋   
 
-I'm a fullstack developer 💻 fueled by tea 🍵, music 🎧, and curiosity 🐈. 
+I'm a full stack developer 💻 fueled by tea 🍵, music 🎧, and curiosity 🐈. 
 
 Once, many years ago, I was not interested in something and I regret that deeply. 
 Since that day, I've been committed to curiosity.
