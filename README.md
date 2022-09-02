@@ -1,9 +1,9 @@
 ### Hi, I'm Michael 👋   
 
-I'm a full stack developer 💻 fueled by tea 🍵, music 🎧, and curiosity 🐈. 
+I'm a full stack developer 💻 fueled by tea 🍵 & music 🎧. 
 
 Once, many years ago, I was not interested in something and I regret that deeply. 
-Since that day, I've been committed to curiosity.
+Since that day, I've been committed to curiosity 🐈.
 
 If you'd like to connect, send me a message 📧 or add me on LinkedIn. 
 
