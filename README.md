@@ -7,8 +7,8 @@ Since that day, I've been committed to curiosity 🐈.
 
 If you'd like to connect, send me a message 📧 or add me on LinkedIn. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/schoeneckermichael/)](https://www.linkedin.com/in/schoeneckermichael/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:michael.schoenecker@gmail.com)](mailto:michael.schoenecker@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/schoeneckermichael/)](https://www.linkedin.com/in/schoeneckermichael/)
 
 ### Tech Stack
 
